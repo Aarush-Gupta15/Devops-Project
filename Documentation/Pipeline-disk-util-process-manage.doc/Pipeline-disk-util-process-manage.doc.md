@@ -15,11 +15,12 @@
 - Write a script to manage processes on the machine (e.g., stop/start services).
 
 ### Step 3: Push the Scripts to a Public Repo on GitHub
-- Push both scripts to a GitHub repository so they can be accessed by Jenkins.
+- Push both scripts to a GitHub repository so Jenkins can access them.
 
 ### Step 4: Create a Jenkins Pipeline
 
 ---
+
 
 ### Pipeline Steps:
 
